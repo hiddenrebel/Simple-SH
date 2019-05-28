@@ -27,3 +27,9 @@
 
 # Import Tmux
 . system/tmux.sh
+
+# Import Android Studio
+. system/android_studio.sh
+
+# Import Timeshift
+. system/timeshift.sh

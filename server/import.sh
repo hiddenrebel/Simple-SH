@@ -18,3 +18,9 @@
 
 # Import N98 Magerun
 . server/n98.sh
+
+# Import Docker
+. server/get-docker.sh
+
+# Import Docker Compose
+. server/docker_compose.sh

@@ -73,9 +73,6 @@
 # Import VS Code
 . desktop/vscode.sh
 
-# Import Docker
-. desktop/docker.sh
-
 # Import Yarn
 . desktop/yarn.sh
 
